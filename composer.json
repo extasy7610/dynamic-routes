@@ -1,0 +1,12 @@
+{
+  "require": {
+    "slim/slim": "*",
+    "tightenco/collect": "*",
+    "fzaninotto/faker": "*",
+    "slim/psr7": "*",
+    "slim/http": "*"
+  },
+  "config": {
+    "vendor-dir": "vendor"
+  }
+}
